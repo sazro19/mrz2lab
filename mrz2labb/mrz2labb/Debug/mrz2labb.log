@@ -1,0 +1,4 @@
+﻿  mrz2labb.cpp
+C:\Users\Sasha\Desktop\mrz2labb\mrz2labb\mrz2labb.cpp(116,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sasha\Desktop\mrz2labb\mrz2labb\mrz2labb.cpp(260,13): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+  mrz2labb.vcxproj -> C:\Users\Sasha\Desktop\mrz2labb\Debug\mrz2labb.exe
